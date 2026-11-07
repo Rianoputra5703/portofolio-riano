@@ -2,7 +2,7 @@
 const PROFIL = {
   nama: 'Febriano Saputra',
   peran: 'Full-Stack Web Developer',
-  foto: '/src/assets/download (2).jpg',
+  foto: '/foto.jpg',
   bio: 'Mahasiswa Teknik Informatika yang fokus pada pengembangan web dengan Laravel dan MySQL di sisi backend, serta React di sisi frontend.',
   skills: {
     Frontend: ['React','HTML/CSS', 'Laravel'],
