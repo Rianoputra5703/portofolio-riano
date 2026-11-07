@@ -1,7 +1,7 @@
 // ====== EDIT DATAMU DI SINI ======
 const PROFIL = {
   nama: 'Febriano Saputra',
-  peran: 'Full-Stack Web Developer',
+ peran: 'Web Developer',
   foto: '/foto.jpg',
   bio: 'Mahasiswa Teknik Informatika yang fokus pada pengembangan web dengan Laravel dan MySQL di sisi backend, serta React di sisi frontend.',
   skills: {
